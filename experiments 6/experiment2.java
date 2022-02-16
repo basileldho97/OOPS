@@ -15,11 +15,3 @@ class experiment2
 	}
 }
 
-/*class balanceException extends Exception
-{
-	balanceException()
-	{
-		System.out.print("Low balance ");
-	}
-}
-*/
